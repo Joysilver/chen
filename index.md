@@ -97,7 +97,7 @@
       <p>I graduated with a Ph.D. in Electrical and Electronic Engineering from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a> in December 2020.</p>
       <p>My research interests include artificial intelligence, computer vision, deep learning, pattern recognition, image fusion, and their applications.</p>
       <br>
-      <p><b>Contact:</b><br>Room 405, the 4th Engineering Building<br>Hanyangdaehak-ro, Sangrok-gu, Ansan-si, Gyeonggi-do<br>15588, Republic of Korea<br>Republic of Korea</p>
+      <p><b>Contact:</b><br>Room 405, the 4th Engineering Building<br>Hanyangdaehak-ro, Sangrok-gu, Ansan-si, Gyeonggi-do<br>15588, Republic of Korea</p>
       </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
