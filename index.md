@@ -70,40 +70,40 @@
       }
     </style>
   </head>
-
+    </body>
     <div class="wrapper">
-      <header>
-        <h1>Yunfan Chen</h1>
-        <p>Ph.D in Electrical and Electronic Engineering<br>Hanyang University</p>
-        <p>Research Affiliate<br><a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a></p>
-    <h3><a href="https://joysilver.github.io/yunfanchen/">Home</a></h3>
-        <h3><a href="https://joysilver.github.io/yunfanchen/research.html">Research</a></h3>
-    <h3><a href="https://joysilver.github.io/yunfanchen/research/CV.pdf">CV</a></h3>  
-        <h3><a href="https://joysilver.github.io/yunfanchen/code.html">Code</a></h3> 
-        <h3><a href="https://joysilver.github.io/yunfanchen/teaching.html">Teaching</a></h3> 
-        <h3><a href="https://joysilver.github.io/yunfanchen/personal.html">Personal</a></h3>
-    <b>Social</b><br>
-        <div class="social-row">
-          <a href="mailto:chenyunfan@hanyang.ac.kr" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
-          <a href="https://scholar.google.com/citations?user=eohlTTcAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar-square"></i> Scholar</a><br>
-          <a href="https://orcid.org/0000-0002-6910-0363"><i class="ai ai-fw ai-orcid-square"></i> ORCID</a><br>
-          <a href="http://ideas.repec.org/f/pra541.html"><i class="fa fa-fw fa-share-alt-square"></i> RePEc</a><br>
-          <a href="http://github.com/tyleransom"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
-          <a href="http://twitter.com/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a><br>
-          <a href="http://linkedin.com/in/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
-          <br>
-        </div>
+    <header>
+      <h1>Yunfan Chen</h1>
+      <p>Ph.D in Electrical and Electronic Engineering<br>Hanyang University</p>
+      <p>Research Affiliate<br><a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a></p>
+  <h3><a href="https://joysilver.github.io/yunfanchen/">Home</a></h3>
+      <h3><a href="https://joysilver.github.io/yunfanchen/research.html">Research</a></h3>
+  <h3><a href="https://joysilver.github.io/yunfanchen/research/CV.pdf">CV</a></h3>  
+      <h3><a href="https://joysilver.github.io/yunfanchen/code.html">Code</a></h3> 
+      <h3><a href="https://joysilver.github.io/yunfanchen/teaching.html">Teaching</a></h3> 
+      <h3><a href="https://joysilver.github.io/yunfanchen/personal.html">Personal</a></h3>
+  <b>Social</b><br>
+      <div class="social-row">
+        <a href="mailto:chenyunfan@hanyang.ac.kr" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
+        <a href="https://scholar.google.com/citations?user=eohlTTcAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar-square"></i> Scholar</a><br>
+        <a href="https://orcid.org/0000-0002-6910-0363"><i class="ai ai-fw ai-orcid-square"></i> ORCID</a><br>
+        <a href="http://ideas.repec.org/f/pra541.html"><i class="fa fa-fw fa-share-alt-square"></i> RePEc</a><br>
+        <a href="http://github.com/tyleransom"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
+        <a href="http://twitter.com/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a><br>
+        <a href="http://linkedin.com/in/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
         <br>
+      </div>
+      <br>
 
-    <p><b>Contact:</b><br>Department of Economics<br>University of Oklahoma<br>322 CCD1, 308 Cate Center Drive<br>Norman, OK 73072</p>
-    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </header>
-      <section>
-      <img src="IMGyf.jpg" height="250" width="250" alt="Yunfan Chen"></h3>
-      <p>I am currently an Assistant Professor of <a href="http://www.ou.edu/cas/economics">Economics</a> at the <a href="http://www.ou.edu/">University of Oklahoma</a> and Research Affiliate at the <a href="https://www.iza.org/">Institute for the Study of Labor (IZA)</a>. I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="http://www.duke.edu">Duke University</a> in May 2015.</p>
-      <p>My research interests include labor economics, urban economics, the economics of education, and applications of machine learning.</p>
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
+  <p><b>Contact:</b><br>Department of Economics<br>University of Oklahoma<br>322 CCD1, 308 Cate Center Drive<br>Norman, OK 73072</p>
+  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+    </header>
+    <section>
+    <img src="IMGyf.jpg" height="250" width="250" alt="Yunfan Chen"></h3>
+    <p>I am currently an Assistant Professor of <a href="http://www.ou.edu/cas/economics">Economics</a> at the <a href="http://www.ou.edu/">University of Oklahoma</a> and Research Affiliate at the <a href="https://www.iza.org/">Institute for the Study of Labor (IZA)</a>. I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="http://www.duke.edu">Duke University</a> in May 2015.</p>
+    <p>My research interests include labor economics, urban economics, the economics of education, and applications of machine learning.</p>
+    </section>
+  </div>
+  <script src="javascripts/scale.fix.js"></script>
+</body>
 </html>
