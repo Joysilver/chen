@@ -100,7 +100,7 @@
       </header>
       <section>
       <img src="IMGyf.jpg" height="250" width="190" alt="Yunfan Chen"></h3>
-      <p>I am currently an Assistant Professor of <a href="http://www.ou.edu/cas/economics">Economics</a> at the <a href="http://www.ou.edu/">University of Oklahoma</a> and Research Affiliate at the <a href="https://www.iza.org/">Institute for the Study of Labor (IZA)</a>. I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="http://www.duke.edu">Duke University</a> in May 2015.</p>
+      <p>I graduated with a Ph.D. in <a href="http://www.ou.edu/cas/economics">Electrical and Electronic Engineering</a> from <a href="http://www.ou.edu/">Hanyang University</a>. I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="http://www.duke.edu">Duke University</a> in May 2015.</p>
       <p>My research interests include labor economics, urban economics, the economics of education, and applications of machine learning.</p>
       </section>
     </div>
