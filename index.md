@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html lang="en">
   <head>
   <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
@@ -97,7 +97,7 @@
       </header>
       <section>
       <img src="IMGyf.jpg" height="250" width="195" alt="Yunfan Chen">
-      <p>I graduated with a Ph.D. in <a href="http://www.ou.edu/cas/economics">Electrical and Electronic Engineering</a> from <a href="http://www.ou.edu/">Hanyang University</a> in December 2020.</p>
+      <p>I graduated with a Ph.D. in Electrical and Electronic Engineering</a> from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a> in December 2020.</p>
       <p>My research interests include artificial intelligence, computer vision, deep learning, pattern recognition, image fusion, and their applications.</p>
       </section>
     </div>
