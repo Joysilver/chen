@@ -70,7 +70,7 @@
       }
     </style>
   </head>
-  </body>
+  <body>
     <div class="wrapper">
       <header>
         <h1>Yunfan Chen</h1>
@@ -95,13 +95,13 @@
         </div>
         <br>
 
-    <p><b>Contact:</b><br>Department of Economics<br>University of Oklahoma<br>322 CCD1, 308 Cate Center Drive<br>Norman, OK 73072</p>
+    <p><b>Contact:</b><br>Department of Electrical and Electronic Enigineering<br>Hanyang University<br>Republic of Korea</p>
     <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
       <img src="IMGyf.jpg" height="250" width="190" alt="Yunfan Chen"></h3>
-      <p>I graduated with a Ph.D. in <a href="http://www.ou.edu/cas/economics">Electrical and Electronic Engineering</a> from <a href="http://www.ou.edu/">Hanyang University</a>. I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="http://www.duke.edu">Duke University</a> in May 2015.</p>
-      <p>My research interests include labor economics, urban economics, the economics of education, and applications of machine learning.</p>
+      <p>I graduated with a Ph.D. in <a href="http://www.ou.edu/cas/economics">Electrical and Electronic Engineering</a> from <a href="http://www.ou.edu/">Hanyang University</a> in December 2020.</p>
+      <p>My research interests include artificial intelligence, computer vision, deep learning, pattern recognition, image fusion, and their applications.</p>
       </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
