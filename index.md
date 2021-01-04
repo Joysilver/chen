@@ -87,10 +87,8 @@
           <a href="https://orcid.org/0000-0003-4808-6352"><i class="ai ai-fw ai-orcid-square"></i> ORCID</a><br>
           <a href="https://github.com/Joysilver"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
           <a href="https://www.linkedin.com/in/yunfan-chen-53b49a180/" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
-          <br>
         </div>
-        <br>
-
+        
     <p><b>Contact:</b><br>Department of Electrical and Electronic Enigineering<br>Hanyang University<br>Republic of Korea</p>
     <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
