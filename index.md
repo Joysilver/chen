@@ -1,10 +1,10 @@
-<!doctype html>
+
 <html lang="en">
   <head>
   <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Tyler Ransom by tyleransom</title>
+    <title>Yunfan Chen by yunfanchen</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
@@ -73,9 +73,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Tyler Ransom</h1>
-        <p>Assistant Professor of Economics<br>University of Oklahoma</p>
-        <p>Research Affiliate<br><a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Institute for the Study of Labor (IZA)</a></p>
+        <h1>Yunfan Chen</h1>
+        <p>Ph.D<br>Hanyang University</p>
+        <p>Research Affiliate<br><a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Hanyang University</a></p>
     <h3><a href="https://tyleransom.github.io/">Home</a></h3>
         <h3><a href="https://tyleransom.github.io/research.html">Research</a></h3>
     <h3><a href="https://tyleransom.github.io/research/CV.pdf">CV</a></h3>  
