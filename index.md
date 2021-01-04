@@ -106,4 +106,4 @@
     </div>
     <script src="javascripts/scale.fix.js"></script>
   </body>
-  </html>
+</html>
