@@ -79,18 +79,15 @@
     <h3><a href="https://joysilver.github.io/yunfanchen/">Home</a></h3>
         <h3><a href="https://joysilver.github.io/yunfanchen/research.html">Research</a></h3>
     <h3><a href="https://joysilver.github.io/yunfanchen/research/CV.pdf">CV</a></h3>  
-        <h3><a href="https://joysilver.github.io/yunfanchen/code.html">Code</a></h3> 
-        <h3><a href="https://joysilver.github.io/yunfanchen/teaching.html">Teaching</a></h3> 
+        <h3><a href="https://joysilver.github.io/yunfanchen/Publications.html">Publications</a></h3> 
         <h3><a href="https://joysilver.github.io/yunfanchen/personal.html">Personal</a></h3>
     <b>Social</b><br>
         <div class="social-row">
           <a href="mailto:chenyunfan@hanyang.ac.kr" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
-          <a href="https://scholar.google.com/citations?user=eohlTTcAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar-square"></i> Scholar</a><br>
-          <a href="https://orcid.org/0000-0002-6910-0363"><i class="ai ai-fw ai-orcid-square"></i> ORCID</a><br>
-          <a href="http://ideas.repec.org/f/pra541.html"><i class="fa fa-fw fa-share-alt-square"></i> RePEc</a><br>
-          <a href="http://github.com/tyleransom"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
-          <a href="http://twitter.com/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a><br>
-          <a href="http://linkedin.com/in/tyleransom" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
+          <a href="https://scholar.google.com/citations?user=jM0qv0IAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar-square"></i> Scholar</a><br>
+          <a href="https://orcid.org/0000-0003-4808-6352"><i class="ai ai-fw ai-orcid-square"></i> ORCID</a><br>
+          <a href="https://github.com/Joysilver"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
+          <a href="https://www.linkedin.com/in/yunfan-chen-53b49a180/" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
           <br>
         </div>
         <br>
