@@ -70,7 +70,7 @@
       }
     </style>
   </head>
-  <body>
+
     <div class="wrapper">
       <header>
         <h1>Yunfan Chen</h1>
