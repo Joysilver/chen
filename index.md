@@ -89,14 +89,15 @@
           <a href="https://www.linkedin.com/in/yunfan-chen-53b49a180/" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a><br>
         </div>
         <br>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         
       </header>
       <section>
       <img src="IMGyf.jpg" height="250" width="195" alt="Yunfan Chen">
       <p>I graduated with a Ph.D. in Electrical and Electronic Engineering from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a> in December 2020.</p>
       <p>My research interests include artificial intelligence, computer vision, deep learning, pattern recognition, image fusion, and their applications.</p>
-      <p><b>Contact:</b><br>Department of Electrical and Electronic Enigineering<br>Hanyang University<br>Republic of Korea</p>
-      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      <br>
+      <p><b>Contact:</b><br>Room 405, the 4th Engineering Building<br>Hanyangdaehak-ro, Sangrok-gu, Ansan-si, Gyeonggi-do<br>15588, Republic of Korea<br>Republic of Korea</p>
       </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
